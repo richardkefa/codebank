@@ -89,7 +89,6 @@ body{
 #intro{
     clip-path: polygon(100% 0, 100% 68%, 80% 28%, 40% 100%, 0 100%, 0% 60%, 0 0);
     background-color: pink;
-    /* padding-right: 5cm; */
     padding-bottom: 5cm;
     display: flex;
     flex-direction: row;
